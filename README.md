@@ -21,10 +21,10 @@
 - Cluster Netz
 
 ### Nach Vorbereitung aber vor der Installation Check der Performance durch IOSIM
-[Link Anleitung IO SIM] (https://learn.microsoft.com/de-de/troubleshoot/sql/tools/sqliosim-utility-simulate-activity-disk-subsystem)
+[Link Anleitung IO SIM](https://learn.microsoft.com/de-de/troubleshoot/sql/tools/sqliosim-utility-simulate-activity-disk-subsystem)
 
 ### Nach Instalation - Grundlastmessung Performance Monitor
-[Link zu Tutorial] (https://www.mssqltips.com/sqlservertutorial/283/performance-monitor/)
+[Link zu Tutorial](https://www.mssqltips.com/sqlservertutorial/283/performance-monitor/)
 
 
 [Link zur PDF VMWare SQL Server Clustervorbereitung](https://docs.vmware.com/de/VMware-vSphere/7.0/vsphere-esxi-vcenter-server-702-setup-wsfc.pdf)
