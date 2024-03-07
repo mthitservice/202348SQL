@@ -33,4 +33,4 @@
 [Link zur übersichtlichen Clusterarchitektur](https://www.sqlshack.com/an-overview-of-distributed-sql-server-always-on-availability-groups/)
 
 ### Fehlersuche
-[Link zu den möglichen Problemen] (https://madafa.de/blog/troubleshooting-von-always-on-verfugbarkeitsgruppen)
+[Link zu den möglichen Problemen](https://madafa.de/blog/troubleshooting-von-always-on-verfugbarkeitsgruppen)
